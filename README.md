@@ -19,6 +19,8 @@ http://www.freebuf.com/?s=DVWA
 Web Application Vulnerability Scanner  
 https://github.com/dermotblair/webvulscan  
 
+# Web-For-Pentester
+http://uknowsec.cn/posts/notes/Web-For-Pentester-I-%E7%BB%83%E4%B9%A0%E7%AC%94%E8%AE%B0.html  
 
 
 
