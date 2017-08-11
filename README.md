@@ -9,6 +9,11 @@ https://public-firing-range.appspot.com/
 # DVWA
 http://www.freebuf.com/author/lonehand  
 
+# Kali Linux 2016.2(Rolling) 搭建 DVWA  
+https://segmentfault.com/a/1190000008574461  
+
+
+
 # Security
 www.0ke.org/index.php/archives/49/  
 
