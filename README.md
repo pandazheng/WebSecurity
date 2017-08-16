@@ -7,7 +7,10 @@ https://github.com/qazbnm456/awesome-web-security
 https://public-firing-range.appspot.com/  
 
 # DVWA
-http://www.freebuf.com/author/lonehand  
+http://www.freebuf.com/author/lonehand   
+https://www.youtube.com/watch?v=o7RxE_BzV4M  
+https://www.youtube.com/watch?v=7TJ_F-vTMsw  
+
 
 # Kali Linux 2016.2(Rolling) 搭建 DVWA  
 https://segmentfault.com/a/1190000008574461  
