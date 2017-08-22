@@ -30,6 +30,8 @@ https://github.com/dermotblair/webvulscan
 # Web-For-Pentester
 http://uknowsec.cn/posts/notes/Web-For-Pentester-I-%E7%BB%83%E4%B9%A0%E7%AC%94%E8%AE%B0.html  
 
+# SQL注入
+https://gbhackers.com/sqlmap-detecting-exploiting-sql-injection/  
 
 
 
