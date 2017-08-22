@@ -33,5 +33,9 @@ http://uknowsec.cn/posts/notes/Web-For-Pentester-I-%E7%BB%83%E4%B9%A0%E7%AC%94%E
 # SQL注入
 https://gbhackers.com/sqlmap-detecting-exploiting-sql-injection/  
 
+# Web Security Learning
+https://github.com/CHYbeta/Web-Security-Learning  
+
+
 
 
